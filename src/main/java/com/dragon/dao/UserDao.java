@@ -7,5 +7,4 @@ public interface UserDao {
 	int save(User user);
 
 	int activeUser(String code);
-
 }
